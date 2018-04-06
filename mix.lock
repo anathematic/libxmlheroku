@@ -1,0 +1,3 @@
+%{
+  "libxml": {:git, "https://github.com/anathematic/libxml.git", "a2020b589f7a509870e8f2f90186bb2eb38fe14f", [ref: "a2020b589f7a509870e8f2f90186bb2eb38fe14f"]},
+}

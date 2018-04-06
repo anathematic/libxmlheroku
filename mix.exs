@@ -21,7 +21,7 @@ defmodule Libxmlheroku.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # {:dep_from_hexpm, "~> 0.3.0"},
+      {:libxml, "~> 1.1.4", github: "anathematic/libxml", ref: "a2020b589f7a509870e8f2f90186bb2eb38fe14f"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"},
     ]
   end
